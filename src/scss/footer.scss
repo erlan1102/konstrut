@@ -1,0 +1,132 @@
+.footer{
+  padding: 71px 0 0;
+  background: #141A20;
+  &__company{
+    &-title{
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 11px;
+      line-height: 15px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+    }
+    &-subtitle{
+      padding: 20px 0 16px;
+      font-family: Montserrat sans-serif;
+      font-size: 20px;
+      letter-spacing: 5.70937px;
+      color: #FFFFFF;
+    }
+    &-text{
+      width: 250px;
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 11px;
+      line-height: 19px;
+      letter-spacing: 0.85px;
+      color: #FFFFFF;
+      margin-right: 71px;
+    }
+  }
+  &__menu{
+    display: flex;
+  }
+  &__links{
+    &-title{
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 11px;
+      line-height: 15px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+      margin-bottom: 10px;
+    }
+    &-list{
+      column-gap: 8px;
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 11px;
+      line-height: 25px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+      margin-right: 34px;
+    }
+    &-second{
+      margin-top: 23px;
+      column-gap: 8px;
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 11px;
+      line-height: 25px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+      margin-right: 38px;
+    }
+    &-third{
+      margin-top: 23px;
+      column-gap: 8px;
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 11px;
+      line-height: 25px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+      margin-right: 58px;
+    }
+  }
+  &__contact{
+    &-text{
+      margin-bottom: 10px;
+      width: 140px;
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 11px;
+      line-height: 15px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+      &_t{
+        margin-bottom: 16px;
+        width: 140px;
+        font-family: Montserrat, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 15px;
+        letter-spacing: 0.846154px;
+        color: #FFFFFF;
+      }
+    }
+  }
+  &__icon{
+    display: flex;
+    margin-top: 23px;
+    &-item{
+      margin-right: 25px;
+    }
+  }
+  &__nav{
+    margin-top: 69px;
+    height: 60px;
+    background: #171819;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &-title{
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 11px;
+      line-height: 15px;
+      letter-spacing: 0.846154px;
+      color: #FFFFFF;
+      text-align: center;
+    }
+  }
+}

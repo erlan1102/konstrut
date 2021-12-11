@@ -1,0 +1,109 @@
+.story{
+  padding: 57px 0 117px;
+  border-bottom: blue;
+  &__title{
+    font-family: Montserrat sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 2.30625px;
+    color: #48555B;
+    position: relative;
+    margin-bottom: 90px;
+    &::after{
+      content: '';
+      position: absolute;
+      width: 50px;
+      height: 2px;
+      top: 150%;
+      right: 50%;
+      background: #00A4E5;
+      transform: translateX(50%);
+    }
+  }
+  &__row{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 80px;
+  }
+  &__left{
+    width: 50%;
+    &-title{
+      font-family: Open Sans sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 20px;
+      letter-spacing: 0.1875px;
+      color: #48555B;
+      margin-bottom: 30px;
+      &-blue{
+        color: #00A4E5;
+      }
+    }
+    &-subtitle{
+      font-family: Montserrat sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 13px;
+      line-height: 23px;
+      letter-spacing: 0.1875px;
+      color: #48555B;
+    }
+  }
+  &__right{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    &-card{
+      margin-right: 15px;
+    }
+    &_plan{
+      background: url("../images/Bitmap.png");
+      width: 140px;
+      height: 224px;
+      left: 482px;
+      top: 120px;
+      font-family: Open Sans sans-serif;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 24px;
+      line-height: 29px;
+      letter-spacing: 0.1875px;
+      padding: 15px;
+      color: white;
+      margin-left: 77px;
+    }
+    &_manage{
+      background: url("../images/Bitmap2.png");
+      width: 140px;
+      height: 224px;
+      left: 642px;
+      top: 120px;
+      font-family: Open Sans sans-serif;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 24px;
+      line-height: 29px;
+      letter-spacing: 0.1875px;
+      padding: 15px;
+      color: white;
+    }
+    &_build{
+      background: url("../images/Bitmap3.png");
+      width: 140px;
+      height: 224px;
+      left: 801px;
+      top: 120px;
+      font-family: Open Sans sans-serif;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 24px;
+      line-height: 29px;
+      letter-spacing: 0.1875px;
+      padding: 15px;
+      color: white;
+    }
+  }
+
+}

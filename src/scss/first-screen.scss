@@ -1,0 +1,38 @@
+.first-screen{
+  background: url("../images/bg.png") center/cover no-repeat;
+  padding: 41px 0 72px;
+  &_name{
+    font-family: Montserrat sans-serif;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5.70937px;
+    color: #FFFFFF;
+    margin-bottom: 320px;
+  }
+  &_title{
+    font-family: Montserrat sans-serif;
+    font-size: 60px;
+    letter-spacing: 5.70937px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  &_subtitle{
+    font-family: Montserrat sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 221px;
+  }
+  &_scroll{
+    font-family: Montserrat sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 3.7px;
+    color: #FFFFFF;
+  }
+}

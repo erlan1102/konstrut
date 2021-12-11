@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6163f546-dc82-42da-95c5-7c7eb17262eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y8L4Z2PBRuTkwFfJhHYCIVOQYY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Рабочий стол\IT2000\Konstrut_project\src\images" />
+      <recent name="D:\OneDrive\Рабочий стол\IT2000\Additional\17less_project\src\images" />
+      <recent name="D:\OneDrive\Рабочий стол\IT2000\Additional\17less_project\src\libs\bootstrap" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6163f546-dc82-42da-95c5-7c7eb17262eb" name="Default Changelist" comment="" />
+      <created>1631628077128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631628077128</updated>
+      <workItem from="1631628078581" duration="57000" />
+      <workItem from="1631628154849" duration="151000" />
+      <workItem from="1631628325347" duration="580000" />
+      <workItem from="1631628996101" duration="1382000" />
+      <workItem from="1631630440347" duration="743000" />
+      <workItem from="1631631193278" duration="3000" />
+      <workItem from="1631631314205" duration="110000" />
+      <workItem from="1631631440348" duration="629000" />
+      <workItem from="1631632101613" duration="664000" />
+      <workItem from="1631632801244" duration="1293000" />
+      <workItem from="1631634235849" duration="2856000" />
+      <workItem from="1631639465820" duration="3078000" />
+      <workItem from="1631722406307" duration="7520000" />
+      <workItem from="1631801318622" duration="431000" />
+      <workItem from="1631893009140" duration="12000" />
+      <workItem from="1631895222412" duration="2141000" />
+      <workItem from="1631897394471" duration="10000" />
+      <workItem from="1631899209902" duration="471000" />
+      <workItem from="1632069766541" duration="1627000" />
+      <workItem from="1632149437647" duration="13158000" />
+      <workItem from="1632317521298" duration="596000" />
+      <workItem from="1632764430316" duration="51000" />
+      <workItem from="1633106044340" duration="12000" />
+      <workItem from="1633349738145" duration="333000" />
+      <workItem from="1633350129850" duration="4000" />
+      <workItem from="1633351365880" duration="2000" />
+      <workItem from="1634385706437" duration="382000" />
+      <workItem from="1634386114030" duration="47000" />
+      <workItem from="1634386170208" duration="93000" />
+      <workItem from="1636631634440" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631636265178">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1631636265178" />
+    <state x="405" y="211" key="EditFileWatcherDialog" timestamp="1634386155630">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="405" y="211" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1634386155630" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+.nav{
+  &__row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+    &__title{
+      font-family: Montserrat sans-serif;
+      font-size: 16px;
+      color: black;
+      letter-spacing: 0.1px;
+      text-align: center;
+      margin: 25px 0;
+    }
+  &__list{
+    display: flex;
+    column-gap: 40px;
+    margin-top: 25px;
+    &-link{
+      font-family: Open Sans sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 12px;
+      text-align: center;
+      letter-spacing: 1.09091px;
+      color: #48555B;
+      &-blue{
+        color: #00A4E5;
+      }
+    }
+  }
+}
